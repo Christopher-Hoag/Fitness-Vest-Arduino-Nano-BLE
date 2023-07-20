@@ -1,0 +1,16 @@
+.1048 :1 ;KEYSTONE - 1048 - BATTERY HOLDER, 18650 LI-ION, 2CELL, SMD
+"1048"
+*STM U
+*NGS
+*PLB 1="-_1" 2="+_1" 3="-_2" 4="+_2"
+*MXP 9
+*DFN 1048
+~!Mouser Part Number (534-1048)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/1048?qs=%2F7TOpeL5Mz5jXkg8vI8Dyw%3D%3D)
+~!Manufacturer_Name (Keystone Electronics)
+~!Manufacturer_Part_Number (1048)
+~!Link Datasheet (http://www.keyelco.com/product-pdf.cfm?p=920)
+~!Height (-)
+~!3D_Model (1048)
+"1048"
+1.1!U 2.1!U 3.1!U 4.1!U 

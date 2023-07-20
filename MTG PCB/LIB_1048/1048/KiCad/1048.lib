@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model 1048
+#/256854/986315/2.49/4/4/Undefined or Miscellaneous
+DEF 1048 U 0 30 Y Y 1 F N
+F0 "U" 850 300 50 H V L CNN
+F1 "1048" 850 200 50 H V L CNN
+F2 "1048" 850 100 50 H I L CNN
+F3 "http://www.keyelco.com/product-pdf.cfm?p=920" 850 0 50 H I L CNN
+F4 "KEYSTONE - 1048 - BATTERY HOLDER, 18650 LI-ION, 2CELL, SMD" 850 -100 50 H I L CNN "Description"
+F5 "" 850 -200 50 H I L CNN "Height"
+F6 "534-1048" 850 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Keystone-Electronics/1048?qs=%2F7TOpeL5Mz5jXkg8vI8Dyw%3D%3D" 850 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Keystone Electronics" 850 -500 50 H I L CNN "Manufacturer_Name"
+F9 "1048" 850 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X -_1 1 0 0 200 R 50 50 0 0 P
+X +_1 2 0 -100 200 R 50 50 0 0 P
+X -_2 3 1000 0 200 L 50 50 0 0 P
+X +_2 4 1000 -100 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

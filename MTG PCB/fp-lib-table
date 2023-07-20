@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "18650 Battery Holder")(type "KiCad")(uri "${KIPRJMOD}/LIB_1048/1048/KiCad")(options "")(descr ""))
+  (lib (name "Logic Level Converter")(type "KiCad")(uri "${KIPRJMOD}/KiCad")(options "")(descr ""))
+  (lib (name "Op Amp")(type "KiCad")(uri "${KIPRJMOD}/mcp6004-e_p")(options "")(descr ""))
+)

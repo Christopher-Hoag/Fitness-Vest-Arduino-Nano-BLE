@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "MTG-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/MTG-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74AHCT125N")(type "KiCad")(uri "${KIPRJMOD}/KiCad/SN74AHCT125N.kicad_sym")(options "")(descr ""))
+  (lib (name "Buck")(type "KiCad")(uri "${KIPRJMOD}/Buck.kicad_sym")(options "")(descr ""))
+)
